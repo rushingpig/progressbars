@@ -1,0 +1,15 @@
+{
+  "name": "progressbars",
+  "version": "1.0.0",
+  "description": "a tool to show progressbar for linux tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "progress",
+    "progressbar"
+  ],
+  "author": "pigo",
+  "license": "MIT"
+}
